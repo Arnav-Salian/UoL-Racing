@@ -11,7 +11,7 @@ I developed a React.js version of the UoL Racing website to enhance my React and
 - **Responsive Design**: A modern, responsive layout that adapts to various devices and screen sizes.
 
 ### Live Demo
-You can explore the live demo of the website at [**uolracing.netlify.app**](https://uolracing.netlify.app/).
+You can explore the live demo of the website at [**uolracing.vercel.app**](https://uolracing.vercel.app/).
 
 ### Copyright Notice
 Due to copyright restrictions, the source code for this project cannot be published. However, the live demo provides a comprehensive view of the functionality and design.
