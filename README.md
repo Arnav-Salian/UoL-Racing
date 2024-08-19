@@ -5,7 +5,7 @@ I developed a React.js version of the UoL Racing website to enhance my React and
 ### Key Features
 
 - **User Authentication**: Integrated Firebase for secure user authentication and management.
-- **E-Commerce Store**: Features an online store with PayPal integration for seamless transactions and merchandise purchases.
+- **E-Commerce Store**: Features an online store with PayPal integration for seamless transactions and Team Kit purchases.
 - **Content Management**: Dynamic content management with React, streamlining updates and content delivery.
 - **SEO Optimization**: Implemented SEO strategies to improve site visibility and search engine ranking.
 - **Responsive Design**: A modern, responsive layout that adapts to various devices and screen sizes.
